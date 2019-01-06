@@ -25,3 +25,5 @@ BmiA.java -- 單純用Servlet實現Bmi
 BmiB.java -- 使用Servlet傳參數給Jsp顯示Bmi
 
 HelloWorld.java -- 使用單一JSP實現Bmi
+
+TestProject -- 利用Google搜尋結果顯示搜尋頁面
